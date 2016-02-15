@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NOWHERE</Machine>
+    <WindowsUser>Fernando</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\QuickSpark.exe">
+      <PackagePath>QuickSpark.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\QuickSpark.pdb">
+      <PackagePath>QuickSpark.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta.gif">
+      <PackagePath>Assets\Carta.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta0.jpg">
+      <PackagePath>Assets\Carta0.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta1.jpg">
+      <PackagePath>Assets\Carta1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta10.jpg">
+      <PackagePath>Assets\Carta10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta11.jpg">
+      <PackagePath>Assets\Carta11.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta12.jpg">
+      <PackagePath>Assets\Carta12.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta13.jpg">
+      <PackagePath>Assets\Carta13.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta2.jpg">
+      <PackagePath>Assets\Carta2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta3.jpg">
+      <PackagePath>Assets\Carta3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta4.jpg">
+      <PackagePath>Assets\Carta4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta5.jpg">
+      <PackagePath>Assets\Carta5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta6.jpg">
+      <PackagePath>Assets\Carta6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta7.jpg">
+      <PackagePath>Assets\Carta7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta8.jpg">
+      <PackagePath>Assets\Carta8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta9.jpg">
+      <PackagePath>Assets\Carta9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\pop.wav">
+      <PackagePath>Assets\pop.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

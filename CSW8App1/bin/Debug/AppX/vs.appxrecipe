@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NOWHERE</Machine>
+    <WindowsUser>Fernando</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D98BC035E5EB59E65BBDC24B5FB2CEAA4EA6FA5E0CE86BD6347ADF926554886C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>64afeda7-22f7-4eee-a191-0325ce003bfa_1.0.0.0_neutral__2y5t075t1zd2e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>64afeda7-22f7-4eee-a191-0325ce003bfa_2y5t075t1zd2e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>64afeda7-22f7-4eee-a191-0325ce003bfa</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Fernando</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:07:58.641</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\QuickSpark.exe">
+      <PackagePath>QuickSpark.exe</PackagePath>
+      <Modified>2013-07-23T20:54:49.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\QuickSpark.pdb">
+      <PackagePath>QuickSpark.pdb</PackagePath>
+      <Modified>2013-07-23T20:54:49.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta.gif">
+      <PackagePath>Assets\Carta.gif</PackagePath>
+      <Modified>2013-07-20T02:01:23.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta0.jpg">
+      <PackagePath>Assets\Carta0.jpg</PackagePath>
+      <Modified>2013-07-20T02:05:05.141</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta1.jpg">
+      <PackagePath>Assets\Carta1.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta10.jpg">
+      <PackagePath>Assets\Carta10.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta11.jpg">
+      <PackagePath>Assets\Carta11.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta12.jpg">
+      <PackagePath>Assets\Carta12.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.968</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta13.jpg">
+      <PackagePath>Assets\Carta13.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta2.jpg">
+      <PackagePath>Assets\Carta2.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta3.jpg">
+      <PackagePath>Assets\Carta3.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta4.jpg">
+      <PackagePath>Assets\Carta4.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.928</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta5.jpg">
+      <PackagePath>Assets\Carta5.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta6.jpg">
+      <PackagePath>Assets\Carta6.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta7.jpg">
+      <PackagePath>Assets\Carta7.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.954</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta8.jpg">
+      <PackagePath>Assets\Carta8.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Carta9.jpg">
+      <PackagePath>Assets\Carta9.jpg</PackagePath>
+      <Modified>2013-07-20T02:01:23.959</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:06:33.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T01:07:11.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:58:01.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T00:58:30.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\Assets\pop.wav">
+      <PackagePath>Assets\pop.wav</PackagePath>
+      <Modified>2013-07-23T00:39:01.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-07-19T22:30:41.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T21:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-07-23T20:52:11.232</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Fernando\Documents\Visual Studio 2012\Projects\CSW8App1\CSW8App1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-07-23T01:07:58.557</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
